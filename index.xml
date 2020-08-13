@@ -3,11 +3,11 @@
   <channel>
     <title>絶対ってなに</title>
     <link>https://zettaittenani.github.io/</link>
-    <description>Recent content on 絶対ってなに</description>
+    <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 13 Aug 2020 14:57:19 +0900</lastBuildDate>
     
-	<atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,7 +16,8 @@
       <pubDate>Thu, 13 Aug 2020 14:57:19 +0900</pubDate>
       
       <guid>https://zettaittenani.github.io/posts/2020/08/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>何らかのトピックに対して思ったこと、学んだことなどの中から、Twitter で書ききれないことをこちらに書いていきます。よろしくお願いいたします。</description>
+      <description>&lt;p&gt;何らかのトピックに対して思ったこと、学んだことなどの中から、Twitter で書ききれないことをこちらに書いていきます。よろしくお願いいたします。&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,8 +26,16 @@
       <pubDate>Thu, 13 Aug 2020 14:07:49 +0900</pubDate>
       
       <guid>https://zettaittenani.github.io/about/</guid>
-      <description>Author: Akira Tameoka (@zettaittenani)
- GitHub: Akira Tameoka Twitter: Akira Tameoka Linkedin: Akira Tameoka Facebook: Akira Tameoka Qiita: Akira Tameoka AtCoder: zettaittenani  </description>
+      <description>&lt;p&gt;Author: Akira Tameoka (@zettaittenani)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/zettaittenani&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/zettaittenani&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin: &lt;a href=&#34;https://www.linkedin.com/in/akira-tameoka/&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/akira.tameoka&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Qiita: &lt;a href=&#34;https://qiita.com/zettaittenani&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AtCoder: &lt;a href=&#34;https://atcoder.jp/users/zettaittenani&#34;&gt;zettaittenani&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
