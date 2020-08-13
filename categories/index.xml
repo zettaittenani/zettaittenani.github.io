@@ -3,10 +3,10 @@
   <channel>
     <title>Categories on 絶対ってなに</title>
     <link>https://zettaittenani.github.io/categories/</link>
-    <description>絶対ってなに (Categories)</description>
+    <description>Recent content in Categories on 絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
     
-    <atom:link href="https://zettaittenani.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zettaittenani.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
