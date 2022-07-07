@@ -5,10 +5,28 @@
     <link>https://zettaittenani.github.io/</link>
     <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Sep 2021 08:04:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2022 08:17:11 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/daily-update/</link>
+      <pubDate>Thu, 07 Jul 2022 08:17:11 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/daily-update/</guid>
+      <description>&lt;h3 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h3&gt;
+&lt;p&gt;Body: Not bad.&lt;!-- raw HTML omitted --&gt;
+Mind: Not bad.&lt;/p&gt;
+&lt;h3 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordered &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; via Amazon.&lt;/li&gt;
+&lt;li&gt;Logged in to LeetCode for the first time in a year.&lt;/li&gt;
+&lt;li&gt;Confirmed frequency&amp;rsquo;s pronounciation. It&amp;rsquo;s not frekwənsi but fríːkwənsi.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>2021-09-07-2</title>
