@@ -5,7 +5,7 @@
     <link>https://zettaittenani.github.io/tags/prose/</link>
     <description>絶対ってなに (Prose)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Jul 2022 08:17:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jul 2022 11:53:35 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,13 +13,52 @@
     <item>
       <title>Daily Update</title>
       <link>https://zettaittenani.github.io/posts/2022/07/daily-update/</link>
+      <pubDate>Fri, 08 Jul 2022 11:53:35 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Not so good. I have a headache.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.60/350.&lt;/li&gt;
+&lt;li&gt;Made My LeetCode account premium one.&lt;/li&gt;
+&lt;li&gt;Solved 2 LeetCode problems below that are ranked as easy.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/palindrome-number/&#34;&gt;Palindrome Number&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/roman-to-integer/&#34;&gt;Roman to Integer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reviewed these data structure and algorythm below.
+&lt;ul&gt;
+&lt;li&gt;hash table&lt;/li&gt;
+&lt;li&gt;quick sort&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Shinzo Abe, Japanese previous prime minister, was shot and died today.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s so shocking though I don&amp;rsquo;t know about him so much.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/daily-update/</link>
       <pubDate>Thu, 07 Jul 2022 08:17:11 +0900</pubDate>
       
       <guid>https://zettaittenani.github.io/posts/2022/07/daily-update/</guid>
-      <description>&lt;h3 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h3&gt;
-&lt;p&gt;Body: Not bad.&lt;!-- raw HTML omitted --&gt;
-Mind: Not bad.&lt;/p&gt;
-&lt;h3 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Not bad.&lt;/li&gt;
+&lt;li&gt;Mind: Not bad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Ordered &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; via Amazon.&lt;/li&gt;
 &lt;li&gt;Logged in to LeetCode for the first time in a year.&lt;/li&gt;
