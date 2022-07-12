@@ -5,10 +5,36 @@
     <link>https://zettaittenani.github.io/tags/prose/</link>
     <description>絶対ってなに (prose)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Jul 2022 10:56:41 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2022 17:40:54 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/12/daily-update/</link>
+      <pubDate>Tue, 12 Jul 2022 17:40:54 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/12/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good.&lt;/li&gt;
+&lt;li&gt;Mind: Not so good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked. Had meetings which takes totally 5 hours.&lt;/li&gt;
+&lt;li&gt;Solved the LeetCode problem below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/valid-palindrome-ii/&#34;&gt;680. Valid Palindrome II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;Sometimes I&amp;rsquo;m still frastrated while communicating with other people. I cannot practice the Separation of Tasks advocated by Alfred Adler. Emotion is volatile, at least for me. I&amp;rsquo;d Better sleep deeply and forget.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
