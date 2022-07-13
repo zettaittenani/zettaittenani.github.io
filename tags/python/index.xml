@@ -19,9 +19,9 @@
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;All of the Objects used in Python are defined as PyObject extension.&lt;/li&gt;
-&lt;li&gt;We can treat List in Python basically the same as C&amp;rsquo;s.
+&lt;li&gt;We can treat List in Python basically the same as C lang&amp;rsquo;s.
 &lt;ul&gt;
-&lt;li&gt;Access to an element in a List in Python takes O(1) time complexity, which is the same as C&amp;rsquo;s random access to an array.&lt;/li&gt;
+&lt;li&gt;Access to an element in a List in Python takes O(1) time complexity, which is the same as C lang&amp;rsquo;s random access to an array.&lt;/li&gt;
 &lt;li&gt;Access to elements in a List using slice in Python takes O(k) time complexity (k means the slice&amp;rsquo;s length) because it is implemented as new memory allocation and copy elements using for loop.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
