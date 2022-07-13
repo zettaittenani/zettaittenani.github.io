@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on 絶対ってなに</title>
+    <link>https://zettaittenani.github.io/tags/python/</link>
+    <description>絶対ってなに (python)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Jul 2022 08:34:11 +0900</lastBuildDate>
+    
+    <atom:link href="https://zettaittenani.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/14/python/</link>
+      <pubDate>Thu, 14 Jul 2022 08:34:11 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/14/python/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;All of the Objects used in Python are defined as PyObject extension.&lt;/li&gt;
+&lt;li&gt;We can treat List in Python basically the same as C&amp;rsquo;s.
+&lt;ul&gt;
+&lt;li&gt;Access to an element in a List in Python takes O(1) time complexity, which is the same as C&amp;rsquo;s random access to an array.&lt;/li&gt;
+&lt;li&gt;Access to elements in a List using slice in Python takes O(k) time complexity (k means the slice&amp;rsquo;s length) because it is implemented as new memory allocation and copy elements using for loop.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.madopro.net/entry/2016/06/29/173841&#34;&gt;Pythonのlist型の実装を読んでみる - 今日も窓辺でプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
