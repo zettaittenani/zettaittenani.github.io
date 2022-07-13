@@ -5,10 +5,37 @@
     <link>https://zettaittenani.github.io/</link>
     <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Jul 2022 17:40:54 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jul 2022 13:24:49 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/13/daily-update/</link>
+      <pubDate>Wed, 13 Jul 2022 13:24:49 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/13/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good though Got so many mosquito bites while I was reading a book in a park.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.160/350.&lt;/li&gt;
+&lt;li&gt;Solved these LeetCode problem below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/best-time-to-buy-and-sell-stock/&#34;&gt;121. Best Time to Buy and Sell Stock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/valid-word-abbreviation/&#34;&gt;408. Valid Word Abbreviation&lt;/a&gt; (Difficult)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;I can forget all of other trivial things while I&amp;rsquo;m immersed in the things I should do.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -231,25 +258,6 @@
       
       <guid>https://zettaittenani.github.io/posts/2020/08/13/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
       <description>&lt;p&gt;何らかのトピックに対して思ったこと、学んだことなどの中から、Twitter で書ききれないことをこちらに書いていきます。よろしくお願いいたします。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://zettaittenani.github.io/about/</link>
-      <pubDate>Thu, 13 Aug 2020 14:07:49 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/about/</guid>
-      <description>&lt;p&gt;Author: Akira Tameoka (@zettaittenani)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/zettaittenani&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/zettaittenani&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Linkedin: &lt;a href=&#34;https://www.linkedin.com/in/akira-tameoka/&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/akira.tameoka&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Qiita: &lt;a href=&#34;https://qiita.com/zettaittenani&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;LeetCode: &lt;a href=&#34;https://leetcode.com/zettaittenani/&#34;&gt;Akira Tameoka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AtCoder: &lt;a href=&#34;https://atcoder.jp/users/zettaittenani&#34;&gt;zettaittenani&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
