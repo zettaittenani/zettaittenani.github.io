@@ -11,11 +11,11 @@
     
     
     <item>
-      <title>Python</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/14/python/</link>
+      <title>Time complexity of serveral operations for list in Python</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/</link>
       <pubDate>Thu, 14 Jul 2022 08:34:11 +0900</pubDate>
       
-      <guid>https://zettaittenani.github.io/posts/2022/07/14/python/</guid>
+      <guid>https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;All of the Objects used in Python are defined as PyObject extension.&lt;/li&gt;
