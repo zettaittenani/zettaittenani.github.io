@@ -5,10 +5,36 @@
     <link>https://zettaittenani.github.io/tags/prose/</link>
     <description>絶対ってなに (prose)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Jul 2022 13:24:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2022 08:33:43 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/14/daily-update/</link>
+      <pubDate>Thu, 14 Jul 2022 08:33:43 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/14/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.179/350.&lt;/li&gt;
+&lt;li&gt;Solved these LeetCode problem below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/moving-average-from-data-stream/&#34;&gt;346. Moving Average from Data Stream&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;Achieving results precedes Getting along together.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -248,16 +274,6 @@
 この論考を読むまでは､負の感情を単に悪いものとして捉え､悪いものは悪いものとしてコントロールできないか､と考えていたが､
 確かに､よく考えてみると､負の感情はそれそのものが悪いものだと言い切るのも難しいかもしれないと思った｡&lt;/p&gt;
 &lt;p&gt;ちなみに､この論考には「負の感情はコントロールすべきか?」という章もあり､負の感情について生物学の観点から論ぜられていて面白い｡&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ブログを開設しました</title>
-      <link>https://zettaittenani.github.io/posts/2020/08/13/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <pubDate>Thu, 13 Aug 2020 14:57:19 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2020/08/13/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>&lt;p&gt;何らかのトピックに対して思ったこと、学んだことなどの中から、Twitter で書ききれないことをこちらに書いていきます。よろしくお願いいたします。&lt;/p&gt;
 </description>
     </item>
     
