@@ -23,6 +23,7 @@
 &lt;ul&gt;
 &lt;li&gt;Access to an element in a List in Python takes O(1) time complexity, which is the same as C lang&amp;rsquo;s random access to an array.&lt;/li&gt;
 &lt;li&gt;Access to elements in a List using slice in Python takes O(k) time complexity (k means the slice&amp;rsquo;s length) because it is implemented as new memory allocation and copy elements using for loop.&lt;/li&gt;
+&lt;li&gt;list.pop(x) takes O(n) time complexity (len(list) is n) because the elements that have bigger indices than x have to be moved to the previous array.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
