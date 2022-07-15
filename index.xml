@@ -29,6 +29,32 @@
     </item>
     
     <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/15/daily-update/</link>
+      <pubDate>Fri, 15 Jul 2022 13:04:33 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/15/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good though I&amp;rsquo;m a little sleep-deprived.&lt;/li&gt;
+&lt;li&gt;Mind: Good. So clear.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.188/350.&lt;/li&gt;
+&lt;li&gt;Solved these LeetCode problem below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/contains-duplicate/&#34;&gt;217. Contains Duplicate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;I feel like I got stronger mind than before. If some problems occurred, I&amp;rsquo;d be less emotional and deal with them more logically.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Time complexity of serveral operations for list in Python</title>
       <link>https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/</link>
       <pubDate>Thu, 14 Jul 2022 08:34:11 +0900</pubDate>
@@ -67,7 +93,7 @@
 &lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.179/350.&lt;/li&gt;
-&lt;li&gt;Solved these LeetCode problem below.
+&lt;li&gt;Solved the LeetCode problem below.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/moving-average-from-data-stream/&#34;&gt;346. Moving Average from Data Stream&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -238,26 +264,6 @@
 &lt;ul&gt;
 &lt;li&gt;Shinzo Abe, Japanese previous prime minister, was shot and died today.&lt;/li&gt;
 &lt;li&gt;It&amp;rsquo;s so shocking though I don&amp;rsquo;t know about him so much.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Update</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/07/daily-update/</link>
-      <pubDate>Thu, 07 Jul 2022 08:17:11 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/07/daily-update/</guid>
-      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Body: Not bad.&lt;/li&gt;
-&lt;li&gt;Mind: Not bad.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ordered &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; via Amazon.&lt;/li&gt;
-&lt;li&gt;Logged in to LeetCode for the first time in a year.&lt;/li&gt;
-&lt;li&gt;Confirmed frequency&amp;rsquo;s pronounciation. It&amp;rsquo;s not frékwənsi but fríːkwənsi.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
