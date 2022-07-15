@@ -5,10 +5,28 @@
     <link>https://zettaittenani.github.io/</link>
     <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jul 2022 08:34:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 13:16:56 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python implementation check list</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</link>
+      <pubDate>Fri, 15 Jul 2022 13:16:56 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</guid>
+      <description>&lt;h2 id=&#34;to-check-list&#34;&gt;To-Check list&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The mechanism of list.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/&#34;&gt;Time complexity of serveral operations for list in Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The implementation when a list object is redefined as set.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Time complexity of serveral operations for list in Python</title>
@@ -241,35 +259,6 @@
 &lt;li&gt;Logged in to LeetCode for the first time in a year.&lt;/li&gt;
 &lt;li&gt;Confirmed frequency&amp;rsquo;s pronounciation. It&amp;rsquo;s not frékwənsi but fríːkwənsi.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2021-09-07-2</title>
-      <link>https://zettaittenani.github.io/posts/2021/09/07/2021-09-07-2/</link>
-      <pubDate>Tue, 07 Sep 2021 08:04:08 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2021/09/07/2021-09-07-2/</guid>
-      <description>&lt;p&gt;タイトルが思いつかなかったので日付のまま｡&lt;/p&gt;
-&lt;p&gt;最近､自分はこのままでいいのか､いやよくないだろうとか､そういうことを漠然と考えて不安になったりしている｡
-こういう感情はたまにやってきて､何かしなければならないと思い､奮起して何かやったりする｡
-例えば日常を変えるために体力をつけよう､ということでランニングを始めたりとか､プログラミングの力をつけよう､と思って AtCoder を始めたりとか｡
-でもいつの間にかやめてしまい､これまでの日常に戻っている｡
-現状に何かしら不満足で､何か変えようと思って､何か始めるけれども､そのうちやめてしまう｡そういうことを何度も繰り返しながら30歳まできた｡
-昔はそういう自分を責めていたが､今となってはあまり罪悪感なく生活している｡
-ただ今は､以前とは多少変わったことがあって､&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;現状に何かしら不満足で､何か変えようと思って､何か始めるけれども､そのうちやめてしまう｡&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;昔はこういうことを言語化できなかった｡言語化する自分が嫌だった｡
-自分が怠惰な面を持っていることを認められず､いやできるはずだ､何故できないのだ､という根性論で自分をなんとかしようとしていた気がする｡&lt;/p&gt;
-&lt;p&gt;そもそも言語化が苦手だ｡
-現象であったり､人の気持ちであったり､そういったものごとは､それそのものとして世の中に存在していて､言葉はそれをパッケージングする｡
-そのパッケージングに対して後ろめたさを感じる｡それそのものの良さが一部削ぎ落とされてしまう気がする｡それなら言葉にしなくて良い､と感じてしまう｡
-コミュニケーションというものは必要に応じて発生するものだと思う｡&lt;/p&gt;
-&lt;p&gt;いくところまでいくと､誰にも伝えず､誰にも伝えられず､一人引きこもっていればいい､ということになる｡
-でも今はそういう考えではない｡
-自分の考えていることをなんとかして人に伝えて､互いにコミュニケーションすることで､自分の考えが変化したりして楽しい｡&lt;/p&gt;
 </description>
     </item>
     

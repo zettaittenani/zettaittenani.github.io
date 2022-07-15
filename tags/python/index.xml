@@ -5,10 +5,28 @@
     <link>https://zettaittenani.github.io/tags/python/</link>
     <description>絶対ってなに (python)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jul 2022 08:34:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 13:16:56 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python implementation check list</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</link>
+      <pubDate>Fri, 15 Jul 2022 13:16:56 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</guid>
+      <description>&lt;h2 id=&#34;to-check-list&#34;&gt;To-Check list&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The mechanism of list.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/&#34;&gt;Time complexity of serveral operations for list in Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The implementation when a list object is redefined as set.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Time complexity of serveral operations for list in Python</title>
