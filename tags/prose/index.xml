@@ -5,10 +5,48 @@
     <link>https://zettaittenani.github.io/tags/prose/</link>
     <description>絶対ってなに (prose)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 13:04:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 11:07:21 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/16/daily-update/</link>
+      <pubDate>Sat, 16 Jul 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/16/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Not bad. Have a bit headache.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Took an English lesson in the morning.
+&lt;ul&gt;
+&lt;li&gt;Understood the difference between &amp;ldquo;I feel ~&amp;rdquo; and &amp;ldquo;I feel like ~&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;We should use &amp;ldquo;I feel like ~&amp;rdquo; literally when I feel &amp;ldquo;like&amp;rdquo; (not directly but feel we feel next to some emotions)&lt;/li&gt;
+&lt;li&gt;So, when we&amp;rsquo;d like to express some virtual situations, we should use &amp;ldquo;I feel like ~&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;For instance, &amp;ldquo;I felt like I was on cloud 9&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When we&amp;rsquo;d like to express some direct emotions, we should use &amp;ldquo;I feel ~&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;For example, &amp;ldquo;I felt so happy&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Made progress in my side business.&lt;/li&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.xxx/350.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;It was a kind of productive day today nevertheless I had no plan. It&amp;rsquo;s been confortable temperture in Tokyo because of recent rains. It&amp;rsquo;s about 23 degrees Celsius.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -24,6 +62,7 @@
 &lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
 &lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Took an English lesson in the morning.&lt;/li&gt;
 &lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.188/350.&lt;/li&gt;
 &lt;li&gt;Solved these LeetCode problem below.
 &lt;ul&gt;
@@ -243,35 +282,6 @@
 &lt;li&gt;Logged in to LeetCode for the first time in a year.&lt;/li&gt;
 &lt;li&gt;Confirmed frequency&amp;rsquo;s pronounciation. It&amp;rsquo;s not frékwənsi but fríːkwənsi.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2021-09-07-2</title>
-      <link>https://zettaittenani.github.io/posts/2021/09/07/2021-09-07-2/</link>
-      <pubDate>Tue, 07 Sep 2021 08:04:08 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2021/09/07/2021-09-07-2/</guid>
-      <description>&lt;p&gt;タイトルが思いつかなかったので日付のまま｡&lt;/p&gt;
-&lt;p&gt;最近､自分はこのままでいいのか､いやよくないだろうとか､そういうことを漠然と考えて不安になったりしている｡
-こういう感情はたまにやってきて､何かしなければならないと思い､奮起して何かやったりする｡
-例えば日常を変えるために体力をつけよう､ということでランニングを始めたりとか､プログラミングの力をつけよう､と思って AtCoder を始めたりとか｡
-でもいつの間にかやめてしまい､これまでの日常に戻っている｡
-現状に何かしら不満足で､何か変えようと思って､何か始めるけれども､そのうちやめてしまう｡そういうことを何度も繰り返しながら30歳まできた｡
-昔はそういう自分を責めていたが､今となってはあまり罪悪感なく生活している｡
-ただ今は､以前とは多少変わったことがあって､&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;現状に何かしら不満足で､何か変えようと思って､何か始めるけれども､そのうちやめてしまう｡&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;昔はこういうことを言語化できなかった｡言語化する自分が嫌だった｡
-自分が怠惰な面を持っていることを認められず､いやできるはずだ､何故できないのだ､という根性論で自分をなんとかしようとしていた気がする｡&lt;/p&gt;
-&lt;p&gt;そもそも言語化が苦手だ｡
-現象であったり､人の気持ちであったり､そういったものごとは､それそのものとして世の中に存在していて､言葉はそれをパッケージングする｡
-そのパッケージングに対して後ろめたさを感じる｡それそのものの良さが一部削ぎ落とされてしまう気がする｡それなら言葉にしなくて良い､と感じてしまう｡
-コミュニケーションというものは必要に応じて発生するものだと思う｡&lt;/p&gt;
-&lt;p&gt;いくところまでいくと､誰にも伝えず､誰にも伝えられず､一人引きこもっていればいい､ということになる｡
-でも今はそういう考えではない｡
-自分の考えていることをなんとかして人に伝えて､互いにコミュニケーションすることで､自分の考えが変化したりして楽しい｡&lt;/p&gt;
 </description>
     </item>
     

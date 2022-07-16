@@ -5,10 +5,48 @@
     <link>https://zettaittenani.github.io/</link>
     <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 13:16:56 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 11:07:21 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/16/daily-update/</link>
+      <pubDate>Sat, 16 Jul 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/16/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Not bad. Have a bit headache.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Took an English lesson in the morning.
+&lt;ul&gt;
+&lt;li&gt;Understood the difference between &amp;ldquo;I feel ~&amp;rdquo; and &amp;ldquo;I feel like ~&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;We should use &amp;ldquo;I feel like ~&amp;rdquo; literally when I feel &amp;ldquo;like&amp;rdquo; (not directly but feel we feel next to some emotions)&lt;/li&gt;
+&lt;li&gt;So, when we&amp;rsquo;d like to express some virtual situations, we should use &amp;ldquo;I feel like ~&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;For instance, &amp;ldquo;I felt like I was on cloud 9&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When we&amp;rsquo;d like to express some direct emotions, we should use &amp;ldquo;I feel ~&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;For example, &amp;ldquo;I felt so happy&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Made progress in my side business.&lt;/li&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.xxx/350.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;It was a kind of productive day today nevertheless I had no plan. It&amp;rsquo;s been confortable temperture in Tokyo because of recent rains. It&amp;rsquo;s about 23 degrees Celsius.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Python implementation check list</title>
@@ -42,6 +80,7 @@
 &lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
 &lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Took an English lesson in the morning.&lt;/li&gt;
 &lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.188/350.&lt;/li&gt;
 &lt;li&gt;Solved these LeetCode problem below.
 &lt;ul&gt;
@@ -228,43 +267,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
 &lt;p&gt;I feel like I should be more independent from some viewpoints. For example,  mentally from the other people.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Update</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/08/daily-update/</link>
-      <pubDate>Fri, 08 Jul 2022 11:53:35 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/08/daily-update/</guid>
-      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Body: Not so good. I have a headache.&lt;/li&gt;
-&lt;li&gt;Mind: Good.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
-&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.60/350.&lt;/li&gt;
-&lt;li&gt;Made My LeetCode account premium one.&lt;/li&gt;
-&lt;li&gt;Solved 2 LeetCode problems below that are ranked at the Easy level.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/palindrome-number/&#34;&gt;Palindrome Number&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/roman-to-integer/&#34;&gt;Roman to Integer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Reviewed these data structure and algorithm below.
-&lt;ul&gt;
-&lt;li&gt;hash table&lt;/li&gt;
-&lt;li&gt;quick sort&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Shinzo Abe, Japanese previous prime minister, was shot and died today.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s so shocking though I don&amp;rsquo;t know about him so much.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

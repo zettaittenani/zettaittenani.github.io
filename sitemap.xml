@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zettaittenani.github.io/posts/2022/07/16/daily-update/</loc>
+    <lastmod>2022-07-16T11:07:21+09:00</lastmod>
+  </url><url>
     <loc>https://zettaittenani.github.io/posts/</loc>
-    <lastmod>2022-07-15T13:16:56+09:00</lastmod>
+    <lastmod>2022-07-16T11:07:21+09:00</lastmod>
+  </url><url>
+    <loc>https://zettaittenani.github.io/tags/prose/</loc>
+    <lastmod>2022-07-16T11:07:21+09:00</lastmod>
+  </url><url>
+    <loc>https://zettaittenani.github.io/tags/</loc>
+    <lastmod>2022-07-16T11:07:21+09:00</lastmod>
+  </url><url>
+    <loc>https://zettaittenani.github.io/</loc>
+    <lastmod>2022-07-16T11:07:21+09:00</lastmod>
   </url><url>
     <loc>https://zettaittenani.github.io/tags/python/</loc>
     <lastmod>2022-07-15T13:16:56+09:00</lastmod>
@@ -11,19 +23,10 @@
     <loc>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</loc>
     <lastmod>2022-07-15T13:16:56+09:00</lastmod>
   </url><url>
-    <loc>https://zettaittenani.github.io/tags/</loc>
-    <lastmod>2022-07-15T13:16:56+09:00</lastmod>
-  </url><url>
     <loc>https://zettaittenani.github.io/tags/tech/</loc>
     <lastmod>2022-07-15T13:16:56+09:00</lastmod>
   </url><url>
-    <loc>https://zettaittenani.github.io/</loc>
-    <lastmod>2022-07-15T13:16:56+09:00</lastmod>
-  </url><url>
     <loc>https://zettaittenani.github.io/posts/2022/07/15/daily-update/</loc>
-    <lastmod>2022-07-15T13:04:33+09:00</lastmod>
-  </url><url>
-    <loc>https://zettaittenani.github.io/tags/prose/</loc>
     <lastmod>2022-07-15T13:04:33+09:00</lastmod>
   </url><url>
     <loc>https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/</loc>
