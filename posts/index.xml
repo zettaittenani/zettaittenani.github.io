@@ -5,10 +5,37 @@
     <link>https://zettaittenani.github.io/posts/</link>
     <description>絶対ってなに (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Jul 2022 11:19:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 16:13:31 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/20/daily-update/</link>
+      <pubDate>Wed, 20 Jul 2022 16:13:31 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/20/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.235/350.&lt;/li&gt;
+&lt;li&gt;Solved these LeetCode problems below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/merge-sorted-array/submissions/&#34;&gt;88. Merge Sorted Array&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/palindrome-linked-list/submissions/&#34;&gt;234. Palindrome Linked List&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;Delicious foods wash out anything.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -238,32 +265,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
 &lt;p&gt;I can forget all of other trivial things while I&amp;rsquo;m immersed in the things I should do.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Update</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/12/daily-update/</link>
-      <pubDate>Tue, 12 Jul 2022 17:40:54 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/12/daily-update/</guid>
-      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Body: Good.&lt;/li&gt;
-&lt;li&gt;Mind: Not so good.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
-&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Worked. Had meetings which took totally 5 hours.&lt;/li&gt;
-&lt;li&gt;Solved the LeetCode problem below.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/valid-palindrome-ii/&#34;&gt;680. Valid Palindrome II&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
-&lt;p&gt;Sometimes I&amp;rsquo;m still frastrated while communicating with other people. I cannot practice the Separation of Tasks advocated by Alfred Adler. Emotion is volatile, at least for me. I&amp;rsquo;d Better sleep deeply and forget.&lt;/p&gt;
 </description>
     </item>
     

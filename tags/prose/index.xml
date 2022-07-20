@@ -5,10 +5,37 @@
     <link>https://zettaittenani.github.io/tags/prose/</link>
     <description>絶対ってなに (prose)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Jul 2022 11:19:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 16:13:31 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/20/daily-update/</link>
+      <pubDate>Wed, 20 Jul 2022 16:13:31 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/20/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.235/350.&lt;/li&gt;
+&lt;li&gt;Solved these LeetCode problems below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/merge-sorted-array/submissions/&#34;&gt;88. Merge Sorted Array&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/palindrome-linked-list/submissions/&#34;&gt;234. Palindrome Linked List&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;Delicious foods wash out anything.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -244,34 +271,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s difficult for me to get an agreement with other people. Having a solid opinion, listening to others&#39; ones, having some conversations and coming to a conclusion. It&amp;rsquo;s too tough bacause I&amp;rsquo;m not so good at reading other people&amp;rsquo;s feelings.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Update</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/10/daily-update/</link>
-      <pubDate>Sun, 10 Jul 2022 13:38:31 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/10/daily-update/</guid>
-      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Body: Good.&lt;/li&gt;
-&lt;li&gt;Mind: OK.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
-&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Took an English lesson online in the morning.&lt;/li&gt;
-&lt;li&gt;Solved the LeetCode problem below.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/longest-common-prefix/&#34;&gt;Longest Common Prefix&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.104/350. (Only 1 page progress!)&lt;/li&gt;
-&lt;li&gt;Gonna have dinner with my former colleagues.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
-&lt;p&gt;Nowadays I&amp;rsquo;ve come to think that basically in any case I should set my priority about anything upper than the other&amp;rsquo;s.&lt;/p&gt;
 </description>
     </item>
     
