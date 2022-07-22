@@ -5,10 +5,35 @@
     <link>https://zettaittenani.github.io/</link>
     <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 16:13:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jul 2022 16:56:18 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2022/07/22/daily-update/</link>
+      <pubDate>Fri, 22 Jul 2022 16:56:18 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2022/07/22/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Good.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Solved the LeetCode problem below.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/fibonacci-number/submissions/&#34;&gt;509. Fibonacci Number&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
+&lt;p&gt;Yesterday I was so inspired by friends who are very active, smart and independent. I felt like I&amp;rsquo;ve gotta challenge much more.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -238,33 +263,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
 &lt;p&gt;Achieving results precedes getting along together.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Update</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/13/daily-update/</link>
-      <pubDate>Wed, 13 Jul 2022 13:24:49 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/13/daily-update/</guid>
-      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Body: Good though I got so many mosquito bites while I was reading a book in a park.&lt;/li&gt;
-&lt;li&gt;Mind: Good.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
-&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.160/350.&lt;/li&gt;
-&lt;li&gt;Solved these LeetCode problem below.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/best-time-to-buy-and-sell-stock/&#34;&gt;121. Best Time to Buy and Sell Stock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/valid-word-abbreviation/&#34;&gt;408. Valid Word Abbreviation&lt;/a&gt; (It&amp;rsquo;s ranked at the Easy level but it was so difficult for me)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
-&lt;p&gt;I can forget all of other trivial things while I&amp;rsquo;m immersed in the things I should do.&lt;/p&gt;
 </description>
     </item>
     
