@@ -5,10 +5,29 @@
     <link>https://zettaittenani.github.io/posts/</link>
     <description>絶対ってなに (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Oct 2022 16:16:10 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 13:02:43 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2024/02/17/daily-update/</link>
+      <pubDate>Sat, 17 Feb 2024 13:02:43 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2024/02/17/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Not bad.&lt;/li&gt;
+&lt;li&gt;Mind: Good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-are-you-gonna-do-today&#34;&gt;What are you gonna do today?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Move the process of tax return forward.&lt;/li&gt;
+&lt;li&gt;Reply private messages.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -238,30 +257,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
 &lt;p&gt;I feel like I got stronger mind than before. If some problems occurred, I&amp;rsquo;d be less emotional and deal with them more logically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Time complexity of serveral operations for list in Python</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/</link>
-      <pubDate>Thu, 14 Jul 2022 08:34:11 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;All of the Objects used in Python are defined as PyObject extension.&lt;/li&gt;
-&lt;li&gt;We can treat List in Python basically the same as C lang&amp;rsquo;s.
-&lt;ul&gt;
-&lt;li&gt;Access to an element in a List in Python takes O(1) time complexity, which is the same as C lang&amp;rsquo;s random access to an array.&lt;/li&gt;
-&lt;li&gt;Access to elements in a List using slice in Python takes O(k) time complexity (k means the slice&amp;rsquo;s length) because it is implemented as new memory allocation and copy elements using for loop.&lt;/li&gt;
-&lt;li&gt;list.pop(x) takes O(n) time complexity (len(list) is n) because the elements that have bigger indices than x have to be moved to the previous array.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.madopro.net/entry/2016/06/29/173841&#34;&gt;Pythonのlist型の実装を読んでみる - 今日も窓辺でプログラム&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
