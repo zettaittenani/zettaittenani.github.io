@@ -5,10 +5,53 @@
     <link>https://zettaittenani.github.io/</link>
     <description>絶対ってなに</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Feb 2024 13:02:43 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 18:30:47 +0900</lastBuildDate>
     
     <atom:link href="https://zettaittenani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2024/02/19/daily-update/</link>
+      <pubDate>Mon, 19 Feb 2024 18:30:47 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2024/02/19/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: TBD&lt;/li&gt;
+&lt;li&gt;Mind: TBD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-are-you-gonna-do-today&#34;&gt;What are you gonna do today?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Move the process of tax return forward.
+&lt;ul&gt;
+&lt;li&gt;Contact to the tax office.&lt;/li&gt;
+&lt;li&gt;Contact to the accountant in the Netherlands.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Buy equipments of my Blu-ray recorder to make it available.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Update</title>
+      <link>https://zettaittenani.github.io/posts/2024/02/18/daily-update/</link>
+      <pubDate>Sun, 18 Feb 2024 14:33:08 +0900</pubDate>
+      
+      <guid>https://zettaittenani.github.io/posts/2024/02/18/daily-update/</guid>
+      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Body: Not good. Sleepy&lt;/li&gt;
+&lt;li&gt;Mind: Relatively good&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-are-you-gonna-do-tody&#34;&gt;What are you gonna do tody?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Read a book (at least 5 pages)&lt;/li&gt;
+&lt;li&gt;Update my CV&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Update</title>
@@ -212,51 +255,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
 &lt;p&gt;It was a kind of productive day today nevertheless I had no plan. It&amp;rsquo;s been confortable temperture in Tokyo because of recent rains. It&amp;rsquo;s about 23 degrees Celsius.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Python implementation check list</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</link>
-      <pubDate>Fri, 15 Jul 2022 13:16:56 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/15/python-implementation-check-list/</guid>
-      <description>&lt;h2 id=&#34;to-check-list&#34;&gt;To-Check list&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The mechanism of list.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://zettaittenani.github.io/posts/2022/07/14/time-complexity-of-serveral-operations-for-list-in-python/&#34;&gt;Time complexity of serveral operations for list in Python&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The implementation when a list object is redefined as set.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Update</title>
-      <link>https://zettaittenani.github.io/posts/2022/07/15/daily-update/</link>
-      <pubDate>Fri, 15 Jul 2022 13:04:33 +0900</pubDate>
-      
-      <guid>https://zettaittenani.github.io/posts/2022/07/15/daily-update/</guid>
-      <description>&lt;h2 id=&#34;how-about-your-state-of-health&#34;&gt;How about your state of health?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Body: Good though I&amp;rsquo;m a little sleep-deprived.&lt;/li&gt;
-&lt;li&gt;Mind: Good. So clear.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-was-your-day-today&#34;&gt;How was your day today?&lt;/h2&gt;
-&lt;h3 id=&#34;what-i-did&#34;&gt;What I did&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Took an English lesson in the morning.&lt;/li&gt;
-&lt;li&gt;Read &lt;a href=&#34;https://www.amazon.co.jp/dp/4794221789&#34;&gt;MINDSET&lt;/a&gt; till p.188/350.&lt;/li&gt;
-&lt;li&gt;Solved these LeetCode problem below.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/contains-duplicate/&#34;&gt;217. Contains Duplicate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;feelings&#34;&gt;Feelings&lt;/h3&gt;
-&lt;p&gt;I feel like I got stronger mind than before. If some problems occurred, I&amp;rsquo;d be less emotional and deal with them more logically.&lt;/p&gt;
 </description>
     </item>
     
